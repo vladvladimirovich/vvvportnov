@@ -47,3 +47,8 @@
 #### Databases, tools, servers <img src="https://media.giphy.com/media/2sjwBnNlY4CPyr8goo/giphy.gif" width="48">
    <img src="https://camo.githubusercontent.com/39f3f1372c6201500182d025fb21157b40e742b497482305c4b03b37d3f9abad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" width="90">  <img src="https://camo.githubusercontent.com/acb268bf1d57430a028027235b1400cc5669283bc5141ad445eb5d695d1145ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66697265626173652d2532333033394245352e7376673f7374796c653d666c6174266c6f676f3d6669726562617365" width="85"> <img src="https://img.shields.io/badge/-cypress.io-lightgrey?logo=cypress" width="95">
 
+## Github stats <img src="https://9to5google.com/2018/07/17/google-blob-emoji-gboard-sticker-pack/6-16/" width="50">  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvvportnov&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvportnov&layout=compact)](https://github.com/vvvportnov/github-readme-stats) <img align="right" width="200" height="200" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-37.gif">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvvportnov&theme=github)
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
