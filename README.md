@@ -49,6 +49,6 @@
 
 ## Github stats <img src="https://9to5google.com/2018/07/17/google-blob-emoji-gboard-sticker-pack/6-16/" width="50">  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vvvportnov&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvportnov&layout=compact)](https://github.com/vvvportnov/github-readme-stats) <img align="right" width="200" height="200" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-37.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvvportnov&layout=compact)](https://github.com/vvvportnov/github-readme-stats) <img align="right" width="100" height="100" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-37.gif">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvvportnov&theme=github)
 ![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
