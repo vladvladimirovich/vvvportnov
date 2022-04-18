@@ -13,7 +13,7 @@
   <summary> Hobbies <img src="https://media.giphy.com/media/40a8jFMt0sc73UtpaH/giphy.gif" width="48"> </summary> 
  
   
-  • Really mad at developing my skills, so most of the time I read special literature in programming and learn something new
+  • Really mad at developing my skills, so most of the time I read special literature in programming and learn something new  
   • Listen to music, watch films and Youtube videos just like everybody else  
   • A fan of visual novels  
   • And programming, of course <img src="https://media.giphy.com/media/f4bdZrlxh7ALRv6Fym/giphy.gif" width="20">
